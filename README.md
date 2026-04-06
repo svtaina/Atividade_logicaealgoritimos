@@ -1,21 +1,21 @@
 # Atividade de Fluxograma e Pseudocódigo
 
-## Sobre a atividade
+## 📌 Sobre a atividade
 
 Esta atividade foi desenvolvida durante a disciplina de **Introdução à Lógica e Algoritmos**, com o objetivo de praticar a construção de soluções lógicas por meio de **fluxogramas** e **pseudocódigo**.
 
-## Objetivo
+## 🎯 Objetivo
 
 O principal objetivo foi compreender como organizar o raciocínio lógico de forma estruturada, representando passo a passo a solução de um problema antes da implementação em uma linguagem de programação.
 
-## Conteúdos trabalhados
+## 🧠 Conteúdos trabalhados
 
 * Conceito de algoritmo
 * Sequência lógica
 * Representação de algoritmos em pseudocódigo
 * Criação de fluxogramas
 
-## Descrição da atividade
+## 🛠️ Descrição da atividade
 
 Foram propostos algoritmos baseados em situações do dia a dia, incluindo:
 
@@ -30,7 +30,7 @@ Cada problema foi representado de duas formas:
 * **Pseudocódigo** – descrição textual estruturada dos passos
 * **Fluxograma** – representação gráfica do processo
 
-## Aprendizados
+## 📊 Aprendizados
 
 Com essa atividade, foi possível:
 
@@ -39,7 +39,7 @@ Com essa atividade, foi possível:
 * Visualizar processos de forma clara e organizada
 * Identificar decisões e fluxos dentro de um algoritmo
 
-## Conclusão
+## 🚀 Conclusão
 
 A prática com fluxogramas e pseudocódigo é essencial para quem está iniciando na área de desenvolvimento, pois facilita a compreensão dos problemas e a criação de soluções eficientes.
 
